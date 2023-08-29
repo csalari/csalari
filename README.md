@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cristina! <br/><a href="https://www.cristinasala.com">Scientific Illustrator</a>, <a href="https://www.linkedin.com/in/cristinasalaripoll/">Game Artist</a>, <a href="https://www.youtube.com/@cristinasala/videos">Tutorial Creator</a></h1>
 
-<h2>🎮 Thechnical Portfolio - Unreal Engine</h2>
+<h2>🎮 Technical Portfolio - Unreal Engine</h2>
 
 - <b>Set Dresser Tool</b>
   - [Practice - Creating a tool that speeds up environment set dressing](https://github.com/csalari/SetDresserTool/tree/main)
