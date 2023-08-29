@@ -3,7 +3,7 @@
 <h2>🎮 Thechnical Portfolio - Unreal Engine</h2>
 
 - <b>Set Dresser Tool</b>
-  - [Practice - Creating a tool that speeds up environment set dressing](https://github.com/csalari/URL
+  - [Practice - Creating a tool that speeds up environment set dressing](https://github.com/csalari/SetDresserTool/tree/main)
 - <b>Measuring Tool</b>
   - [Creating a tool that allows user to measure distances within a set in Unreal](https://github.com/csalari/URL
 - <b>Solar Time Tool</b>
