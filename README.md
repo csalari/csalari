@@ -14,6 +14,8 @@
   <h2>💻 Technical Portfolio - Programming</h2>
 - <b>Python Rock, Paper, Scissors Game</b>
   - [Fast Rock, Paper, Scissors game to play against the computer](https://github.com/csalari/RockPaperScissors)
+- <b>Is it Friday Yet?</b>
+  - [Find out if it's Friday already...or get some positive encouragement for the week!](https://github.com/csalari/FridayYet)
 
 
 <h2>🧊 3D Art Projects </h2>
