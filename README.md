@@ -16,6 +16,8 @@
   - [Fast Rock, Paper, Scissors game to play against the computer](https://github.com/csalari/RockPaperScissors)
 - <b>Python - Is it Friday Yet?</b>
   - [Find out if it's Friday already...or get some positive encouragement for the week!](https://github.com/csalari/FridayYet)
+- <b>Python - First Player <b>
+  - [This program chooses a random name for a list of players that the user enters](https://github.com/csalari/RandomFirstPlayer)
 
 
 <h2>🧊 3D Art Projects </h2>
