@@ -13,7 +13,7 @@
  
   <h2>💻 Technical Portfolio - Programming</h2>
 - <b>Python Rock, Paper, Scissors Game</b>
-  - [Practice - Creating a Rock, Paper, Scissors game to play against the computer](https://github.com/csalari/newrpo
+  - [Practice - Creating a Rock, Paper, Scissors game to play against the computer](https://github.com/csalari/RockPaperScissors)
 
 
 <h2>🧊 3D Art Projects </h2>
