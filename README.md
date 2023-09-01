@@ -10,6 +10,10 @@
   - [Tool that tells us the time according to the position of the sun](https://github.com/csalari/URL
 - <b>Rename Tool</b>
   - [Tool to speed up renaming](https://github.com/csalari/URL
+ 
+  <h2>💻 Technical Portfolio - Programming</h2>
+- <b>Python Rock, Paper, Scissors Game</b>
+  - [Practice - Creating a Rock, Paper, Scissors game to play against the computer](https://github.com/csalari/newrpo
 
 
 <h2>🧊 3D Art Projects </h2>
