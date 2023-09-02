@@ -11,7 +11,7 @@
 - <b>Rename Tool</b>
   - [Tool to speed up renaming](https://github.com/csalari/URL
  
-  <h2>💻 Technical Portfolio - Programming</h2>
+ <h2>💻 Technical Portfolio - Programming</h2>
 - <b>Python - Rock, Paper, Scissors Game</b>
   - [Fast Rock, Paper, Scissors game to play against the computer](https://github.com/csalari/RockPaperScissors)
 - <b>Python - Is it Friday Yet?</b>
