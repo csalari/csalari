@@ -5,12 +5,8 @@
 - <b>Set Dresser Tool</b>
   - [Practice - Creating a tool that speeds up environment set dressing](https://github.com/csalari/SetDresserTool/tree/main)
 - <b>Measuring Tool</b>
-  - [Creating a tool that allows user to measure distances within a set in Unreal](https://github.com/csalari/URL
-- <b>Solar Time Tool</b>
-  - [Tool that tells us the time according to the position of the sun](https://github.com/csalari/URL
-- <b>Rename Tool</b>
-  - [Tool to speed up renaming](https://github.com/csalari/URL
- 
+  - [Practice - Creating a tool that allows users to measure distances in real time within Unreal](https://github.com/csalari/URL
+
  <h2>💻 Technical Portfolio - Programming</h2>
  
 - <b>Python - Rock, Paper, Scissors Game</b>
