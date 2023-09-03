@@ -5,7 +5,7 @@
 - <b>Set Dresser Tool</b>
   - [Practice - Creating a tool that speeds up environment set dressing](https://github.com/csalari/SetDresserTool/tree/main)
 - <b>Measuring Tool</b>
-  - [Practice - Creating a tool that allows users to measure distances in real-time within UE5](https://github.com/csalari/MeasurementTool/tree/main)
+  - [Practice - Creating a tool that allows users to measure distances in real-time within UE5](https://github.com/csalari/MeasuringTool)
 
  <h2>💻 Technical Portfolio - Programming</h2>
  
